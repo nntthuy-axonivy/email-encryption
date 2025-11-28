@@ -1,6 +1,7 @@
-# Dear Bug Hunter,
-# This credential is intentionally included for educational purposes only and does not provide access to any production systems.
-# Please do not submit it as part of our bug bounty program.
+<!-- Dear Bug Hunter,
+ This credential is intentionally included for educational purposes only and does not provide access to any production systems.
+ Please do not submit it as part of our bug bounty program.
+-->
 -----BEGIN CERTIFICATE-----
 MIIF9zCCA9+gAwIBAgIUYIxnJbGXgrD5RkbECF28vQOXEmcwDQYJKoZIhvcNAQEL
 BQAwgYoxCzAJBgNVBAYTAkRFMQ8wDQYDVQQIDAZCYXllcm4xETAPBgNVBAcMCEF1
@@ -35,3 +36,4 @@ DjhhSbKrSdrv2oq8sRTD2X/LzUU1T/RQWHF2b8eIiR59PWvCAuvMGhNw2TDjDJv5
 zLc5oDPnkF4uqQbLvlkSBiUrGKym230cov26u0lQxHcHVHN3M5lkRgcHY0/1GnbG
 Rx5NNZp4KxwiBHql0jXIgm910eHvZi5zIlQPWeIccqi34O9w5BiUh/TyBQ==
 -----END CERTIFICATE-----
+
